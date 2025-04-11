@@ -1,0 +1,12 @@
+font:
+  size: 16
+  normal: 
+    family: Hack NF
+
+window:
+  opacity: 0.9
+  decorations: full
+  blur: true 
+  padding:
+    x: 10
+    y: 10
